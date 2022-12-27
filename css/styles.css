@@ -33,7 +33,7 @@ text-decoration: none;
 }
 
 .header-accent-logo{
-color:var(--main-text-color);
+color: var(--main-text-color);
 }
 
 .header-navigation {
