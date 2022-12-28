@@ -43,6 +43,10 @@ color:var(--main-text-color);
 text-decoration: none;
 }
 
+.nav:hover , .nav:focus{
+color: #4D5AE5;
+}
+
 .contact-link {
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -115,6 +119,10 @@ color:var(--secondary-text-color);
 background-color: var(--section-color);
 }
 
+.cards{
+background-color: var(--white-color);
+}
+
 .section-subtitle{
 font-weight: 500;
 font-size: 20px;
@@ -162,6 +170,3 @@ background-color: #404BBF;
 background-color: #404BBF;   
 }
 
-.nav:hover , .nav:focus{
-color: #4D5AE5;
-}
