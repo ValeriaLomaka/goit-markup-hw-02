@@ -52,6 +52,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--secondary-text-color);
   text-decoration: none;
+  font-style: normal;
 }
 
 .hero-section {
