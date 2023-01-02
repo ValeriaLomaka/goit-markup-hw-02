@@ -29,6 +29,10 @@ body {
   text-transform: uppercase;
   text-decoration: none;
 }
+ 
+.address{
+  font-style: normal;
+}
 
 .header-accent-logo {
   color: var(--main-text-color);
@@ -52,7 +56,6 @@ body {
   letter-spacing: 0.02em;
   color: var(--secondary-text-color);
   text-decoration: none;
-  font-style: normal;
 }
 
 .hero-section {
